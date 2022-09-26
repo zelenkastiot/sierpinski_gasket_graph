@@ -1,2 +1,2 @@
-# sierpi-ski_gasket_graph
+# SierpinskiGasketGraph
 https://mathworld.wolfram.com/SierpinskiGasketGraph.html
